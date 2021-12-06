@@ -10,7 +10,6 @@ Handwritten digit recognition on an STM32F4 32-bit microcontroller integrated ci
 
 more details to come ....
 
-![alt text](/img/stm32.jpg)
 
 ![test image size]<img src="/img/stm32.jpg" width="400">
                        >
